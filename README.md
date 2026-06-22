@@ -1,4 +1,4 @@
-# CollabX v0.1 🚀
+# BuildTogether🚀
 
 **Connect. Collaborate. Code.** A college-wide collaboration platform designed to bridge the gap between students seeking help on software projects and peers willing to contribute.
 
